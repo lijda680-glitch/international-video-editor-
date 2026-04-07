@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Editor Bot",
+  "description": "A Telegram bot that can edit videos and improve video quality using AI and FFmpeg filters.",
+  "requestFramePermissions": []
+}
